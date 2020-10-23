@@ -1,8 +1,8 @@
 :root {
-  --white: hsl(0, 0%, 99%);
-  --gray: hsl(207, 4%, 51%);
-  --black: hsl(0, 0%, 1%);
-  --red: hsl(0, 75%, 30%);
+  --white: hsl(52, 27%, 84%);
+  --gray: hsl(63, 7%, 43%);
+  --black: hsl(270, 46%, 5%);
+  --red: hsl(5, 76%, 40%);
 }
 
 /* general */
